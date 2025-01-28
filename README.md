@@ -6,7 +6,7 @@ This repository contains the source code from:
 
 This paper introduces a complex-valued recurrent neural network (cv-RNN) that can perform image segmentation while being also mathematically solvable. The repository contains the source code (cvrnn_image_segmentation.m) and demonstrates examples of segmenting images with two shapes (example 1), three shapes (example 2), and natural images (example 3).
 
-![fig3](https://github.com/user-attachments/assets/70d7fe63-92fb-4e31-8d69-aeb606836119)
+![fig3](https://github.com/user-attachments/assets/777c1472-cc8a-4d05-8a0e-1d25f9782892)
 
 ## Usage
 
